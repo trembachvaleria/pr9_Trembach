@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0421\u0438\u0441\u0442. \u043F\u0440\u043E\u0433\\\u041F\u0440\u0430\u043A\u0442 9\\pr9_Trembach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC82E95-6EC0-480B-97BD-77A6D9201838}|pr9_Trembach\\pr9_Trembach.vcxproj|F:\\\u0421\u0438\u0441\u0442. \u043F\u0440\u043E\u0433\\\u041F\u0440\u0430\u043A\u0442 9\\pr9_Trembach\\pr9_Trembach\\pr9_Trembach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DC82E95-6EC0-480B-97BD-77A6D9201838}|pr9_Trembach\\pr9_Trembach.vcxproj|solutionrelative:pr9_Trembach\\pr9_Trembach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr9_Trembach.cpp",
+              "DocumentMoniker": "F:\\\u0421\u0438\u0441\u0442. \u043F\u0440\u043E\u0433\\\u041F\u0440\u0430\u043A\u0442 9\\pr9_Trembach\\pr9_Trembach\\pr9_Trembach.cpp",
+              "RelativeDocumentMoniker": "pr9_Trembach\\pr9_Trembach.cpp",
+              "ToolTip": "F:\\\u0421\u0438\u0441\u0442. \u043F\u0440\u043E\u0433\\\u041F\u0440\u0430\u043A\u0442 9\\pr9_Trembach\\pr9_Trembach\\pr9_Trembach.cpp",
+              "RelativeToolTip": "pr9_Trembach\\pr9_Trembach.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T09:46:50.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
